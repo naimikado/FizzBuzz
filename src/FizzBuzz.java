@@ -1,3 +1,4 @@
+package src;
 import java.util.Scanner;
 /* Create the project FizzBuzz
  * When number = divisible by 5 = Fizz
